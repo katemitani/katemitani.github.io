@@ -91,3 +91,18 @@ The website is relatively minimalist in presentation of information, ensuring th
 | Rating | Evaluation | Solution |
 | --- | --- | --- |
 | 2 | There is no FAQ, search bar, "Contact us for help", etc. within the website. | There should be a way for users to search for information or keywords as well as access a help page. An FAQ is also very helpful for a site dedicated to providing services. Something like a PR/marketing agency that requires a lot of information and evidence of reliability/success should definitely have a simplified version of this information (in the form of an FAQ can be intuitive and helpful) | <br/>
+
+
+# General Suggestions/Content
+- Should be clearer about the services that Formosi provides
+  - Voucher programs and specifics of social media marketing are not clearly communicated. If it's a concern about revealing personalized or specific tactics, might be better to leave out titles like "Vouchers Campaigns" 
+- Analytics are always helpful in establishing credibility. Encouraging to new potential clients.
+  - More stats and numbers 
+- Examples of previous work
+  - In the same way that young people need a portfolio when interviewing for a job, companies need a portfolio when marketing their services to potential clients
+  - Helps with establishing credentials, trust, etc.
+  - Based on other large PR/marketing agency websites, having information about past events, programs, etc. are commonly implemented
+- Media features
+  - Similar to above--establishes credibility
+- Information about location, offices, etc. so potential clients know if they are within reasonable distance
+- More contact information like phone number and email. People often feel that filling out forms will just mean it will sit in an inbox somewhere.
